@@ -6,6 +6,10 @@ Primeiro contato com a linguagem Kotlin. Realizei diversos exercícios sobre lin
 -Repetições
 -Decisões
 
+## Linguagem
+[Kotlin](https://developer.android.com/kotlin/learn?hl=pt-br)
+
+
 ## IDE Utilizada
 [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
 
